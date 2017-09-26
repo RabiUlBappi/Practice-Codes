@@ -1,0 +1,3 @@
+javac 8. c_curve.java
+
+java 8. c_curve
